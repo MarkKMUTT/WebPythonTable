@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, redirect, url_for
-app = Flask(__name__, static_folder='.')
+app = Flask(__name__)
 
 data_records = [] # เก็บข้อมูลเดิม
 
