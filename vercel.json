@@ -8,7 +8,7 @@
                 "runtime": "python3.11" 
             }
       }
-    ],
+    ]
     "routes": [
       {
         "src": "/(.*)",
